@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-typography-master.flake = false;
+  inputs.src-typography-master.ref   = "refs/heads/master";
   inputs.src-typography-master.owner = "treeform";
-  inputs.src-typography-master.ref   = "master";
   inputs.src-typography-master.repo  = "typography";
   inputs.src-typography-master.type  = "github";
   
