@@ -11,6 +11,7 @@
   inputs.src-typography-0_7_12.ref   = "refs/tags/0.7.12";
   inputs.src-typography-0_7_12.owner = "treeform";
   inputs.src-typography-0_7_12.repo  = "typography";
+  inputs.src-typography-0_7_12.dir   = "";
   inputs.src-typography-0_7_12.type  = "github";
   
   inputs."pixie".owner = "nim-nix-pkgs";
